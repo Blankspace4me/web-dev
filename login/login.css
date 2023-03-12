@@ -1,0 +1,28 @@
+body{
+    background-color: bisque;
+}
+
+.top-div{
+    margin: auto;
+    margin-top: solid;
+    border-style: solid;
+    border-color: aqua;
+    width: 500px;
+    background-color: red;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.title{
+    font: 60px;
+}
+.user{
+    margin-bottom: 2px;
+}
+.pass{
+    margin-bottom: 4px;
+}
+.log{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 50px;
+    margin-bottom: 50;
+}
